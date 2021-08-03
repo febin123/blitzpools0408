@@ -2168,6 +2168,13 @@ Footer Style
 .footer-newslatter i{
   /* padding-left: */
 }
+.container1{
+  width: 100%;
+  display: block;
+  margin: auto;
+  padding-top: 100px;
+  padding-left: 70px;
+}
 @media (max-width: 702px) {
 
   .footer-widget h6{
