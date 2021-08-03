@@ -2064,6 +2064,7 @@ Footer Style
 }
 .footer-about .footer-logo{
   margin-bottom: 30px;
+	 margin-left: -30px;
 }
 .footer-about p{
   color: black;
