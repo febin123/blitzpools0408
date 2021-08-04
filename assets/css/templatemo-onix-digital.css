@@ -400,6 +400,7 @@ margin-right: 2px;
   .info .text-2,.h5-2{
     padding-left: 10px;
     padding-top: 6.5px;
+	  white-space: nowrap;
     /* font-weight: 500; */
   }
   .info .text-1{
